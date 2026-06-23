@@ -26,7 +26,7 @@ UI/UX Designer
 ## Screens
 
 ### Splash Screen
-![Splash](Assets/Splash_screen.png)
+![Splash](https://github.com/Atharv0090/ZestGo-Food-Delivery-App/blob/main/Splash_screen.png?raw=true)
 
 ### Login Screen
 ![Login](assets/Login_screen.png)
