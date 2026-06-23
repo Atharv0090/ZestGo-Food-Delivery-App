@@ -41,7 +41,7 @@ UI/UX Designer
 ![Cart](https://github.com/Atharv0090/ZestGo-Food-Delivery-App/blob/main/Cart_screen.png?raw=true)
 
 ### Payment Screen
-![Payment](assets/Payment_screen.png)
+![Payment](https://github.com/Atharv0090/ZestGo-Food-Delivery-App/blob/main/Payment_screen.png?raw=true)
 
 ### Tracking Screen
 ![Tracking](assets/Tracking_screen.png)
