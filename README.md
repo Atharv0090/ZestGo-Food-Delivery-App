@@ -47,7 +47,7 @@ UI/UX Designer
 ![Tracking](https://github.com/Atharv0090/ZestGo-Food-Delivery-App/blob/main/Tracking_screen.png?raw=true)
 
 ### Profile Screen
-![Profile](assets/Profile_screen.png)
+![Profile](https://github.com/Atharv0090/ZestGo-Food-Delivery-App/blob/main/Profile_screen.png?raw=true)
 
 
 ## Figma Prototype
