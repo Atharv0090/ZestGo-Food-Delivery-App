@@ -26,7 +26,7 @@ UI/UX Designer
 ## Screens
 
 ### Splash Screen
-![Splash](assets/Splash_screen.png)
+![Splash](Assets/Splash_screen.png)
 
 ### Login Screen
 ![Login](assets/Login_screen.png)
