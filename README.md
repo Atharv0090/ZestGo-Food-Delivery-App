@@ -32,7 +32,7 @@ UI/UX Designer
 ![Login](https://github.com/Atharv0090/ZestGo-Food-Delivery-App/blob/main/Login_screen.png?raw=true)
 
 ### Home Screen
-![Home](assets/Home_screen.png)
+![Home](https://github.com/Atharv0090/ZestGo-Food-Delivery-App/blob/main/Home_screen.png?raw=true)
 
 ### Restaurant Screen
 ![Restaurant](assets/Restaurant_screen.png)
