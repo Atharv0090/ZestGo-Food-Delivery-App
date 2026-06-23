@@ -1,4 +1,4 @@
-![Cover](assets/cover.png)
+![Cover](https://github.com/Atharv0090/ZestGo-Food-Delivery-App/blob/main/Cover.png?raw=true)
 
 # ZestGo-Food-Delivery-App
 UI/UX Design of a modern food delivery application created in Figma.
